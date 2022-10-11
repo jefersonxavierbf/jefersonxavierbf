@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Me Chamo Jeferson Xavier</h1>
 <h3 align="center">Sou Desenvolvedor Frontend Jr.</h3>
 
-- 🌱 Atualmente estou apresendo **⚛️React**
+- 🌱 Atualmente estou aprendendo **⚛️React**
 
 - 📫 Entre em contato **jefersonxavierbf@gmail.com**
 
