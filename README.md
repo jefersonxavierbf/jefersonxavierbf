@@ -7,8 +7,8 @@
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
-<a href="https://instagram.com/jefersonxaverbf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jefersonxaverbf" height="30" width="40" /></a>
-<a href="https://linkedin.com/in//in/jefersonxavier/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/jefersonxavier/" height="30" width="40" /></a>
+<a href="https://instagram.com/jefersonxavierbf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jefersonxaverbf" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jefersonxavier/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/jefersonxavier/" height="30" width="40" /></a>
 <a href="https://twitter.com/jefersonxbf1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jefersonxbf1" height="30" width="40" /></a>
 </p>
 
