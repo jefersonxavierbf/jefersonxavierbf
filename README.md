@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Me Chamo Jeferson Xavier</h1>
-<h3 align="center">Sou Desenvolvedor Frontend Jr.</h3>
+<h3 align="center">Desenvolvedor Frontend Jr.</h3>
 
 <p align="center" dir="auto">
     <a href="https://www.linkedin.com/in/jefersonxavier/" rel="nofollow">
