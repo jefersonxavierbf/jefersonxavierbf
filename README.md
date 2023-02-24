@@ -17,7 +17,7 @@
 </p>
 
 <p align="justify">
-    Inicialmente, eu conheci o desenvolvimento web através do grande professor Gustavo Guanabara. As aulas dele despertou a vontade de me aventurar neste mundo. Aonde, para explorá-lo além do português tomo proveito de outros idiomas, principalmente o inglês para ler as documentações e fazer cursos extracurriculares. Assim, pude desenvolver projetos pessoais que refletem um pouco a minha experiência e o conhecimento adquirido. Em resumo, posso destacar: a implementação de SEO e acessibilidade ao HTML, como também a estruturação de formulários complexos, construção de design responsivo mediante Grid, Flexbox e Medias Queries, versionar meus projetos com git e github, prover interatividade e funcionalidade aos projetos via JavaScript. Hoje, minha exploração no mundo do desenvolvimento continua, atualmente, estudando o framework React.
+    Conheci o desenvolvimento web através do professor Gustavo Guanabara. As aulas dele despertou a vontade de me aventurar neste mundo. Aonde, para explorá-lo além do português tomo proveito principalmente do inglês para ler as documentações e fazer cursos extracurriculares. Assim, desenvolvi competência validada pelo Linkedin no trio HTML, CSS and JavaScript. Atualmente, estou na faculdade cursando Análise e Desenvolvimento de Sistemas.
 </p>
 
 <h3 align="center">Ferramentas e Linguagens:</h3>
